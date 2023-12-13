@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\api_softline_test.csproj": {}
+    "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\api_softline_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\api_softline_test.csproj": {
+    "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\api_softline_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\api_softline_test.csproj",
+        "projectUniqueName": "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\api_softline_test.csproj",
         "projectName": "api_softline_test",
-        "projectPath": "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\api_softline_test.csproj",
+        "projectPath": "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\api_softline_test.csproj",
         "packagesPath": "C:\\Users\\Lisichka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\obj\\",
+        "outputPath": "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lisichka\\AppData\\Roaming\\NuGet\\NuGet.Config",

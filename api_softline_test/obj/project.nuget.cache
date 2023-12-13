@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XmNkkY4N6qIiMD8slytI/XEa7sjtthQGCeIWbEhoBgq/lz07DAjINQI90ifqgOGqlCiwLT4n3YSKuY2hjbfL8g==",
+  "dgSpecHash": "0NDe5j3H8vbVdz29f0hwcZVcWO1GnWkXQwlxU9WIhr9oqLPAECSAJtP/vFirIF2SKpMFedch2sDdKorrIvgScQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisichka\\Desktop\\Softline_test\\api_softline_test\\api_softline_test\\api_softline_test.csproj",
+  "projectFilePath": "C:\\Users\\Lisichka\\softline_api\\api_softline_test\\api_softline_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lisichka\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Lisichka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
